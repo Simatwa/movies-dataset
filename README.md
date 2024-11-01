@@ -17,7 +17,7 @@ Alternatively you can generate your own using the procedures given below.
 
 2. Install requirements
    ```sh
-   pip install -r requirements
+   pip install -r requirements.txt
    ```
 
 # Usage

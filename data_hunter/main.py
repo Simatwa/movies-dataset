@@ -7,7 +7,6 @@ from fzmovies_api.filters import MovieGenreFilter
 
 
 class MovieDataHunter:
-    """Hunt movies data based on year"""
 
     field_names = (
         "genre",
