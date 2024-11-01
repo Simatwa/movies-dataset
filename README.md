@@ -63,3 +63,8 @@ There's no gurantee that the data generated are correct.
 ```
 
 </details>
+
+# Further details
+
+In order to make work easier, there's [cli](cli.py) that comes handy in manipulating the data. This is just but not limited to converting them to various formats and even piling them into one sqlite3 database.
+
