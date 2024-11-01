@@ -1,4 +1,10 @@
 <h1 align="center"> movies-dataset </h1>
+
+<p align="center">
+<a href="LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
+<img src="https://img.shields.io/github/repo-size/Simatwa/movies-dataset"></img>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/Simatwa/movies-dataset&count_bg=blue"/></a>
+</p>
 A collection of movies dataset for your ML project or any other task.
 
 You can access the datasets from [/data](/data) in csv format.
@@ -63,6 +69,40 @@ There's no gurantee that the data generated are correct.
 ```
 
 </details>
+
+# Direct Links
+
+| No. | Genre | Link |
+|-----|-------|------|
+| 1   | Action | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/action.csv``` |
+| 2   | Adventure | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/adventure.csv``` |
+| 3   | Animation | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/animation.csv``` |
+| 4   | Biography | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/biography.csv``` |
+| 5   | Comedy | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/comedy.csv``` |
+| 6   | Crime | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/crime.csv``` |
+| 7   | Documentary | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/documentary.csv``` |
+| 8   | Drama | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/drama.csv``` |
+| 9   | Family | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/family.csv``` |
+| 10   | Fantasy | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/fantasy.csv``` |
+| 11   | Film-Noir | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/film-noir.csv``` |
+| 12   | History | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/history.csv``` |
+| 13   | Horror | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/horror.csv``` |
+| 14   | Music | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/music.csv``` |
+| 15   | Musical | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/musical.csv``` |
+| 16   | Mystery | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/mystery.csv``` |
+| 17   | Romance | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/romance.csv``` |
+| 18   | Sci-Fi | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/sci-fi.csv``` |
+| 19   | Sport | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/sport.csv``` |
+| 20   | Thriller | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/thriller.csv``` |
+| 21   | War | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/war.csv``` |
+| 22   | Western | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/western.csv``` |
+
+# Combined Datasets Link
+
+| No. | Identity | Link |
+|-----|-------|------|
+| 1   | Combined `csv` | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/combined.csv``` |
+| 2   | Sqlite3 Database | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/combined.db``` |
 
 # Further details
 
