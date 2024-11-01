@@ -3,7 +3,7 @@
 <p align="center">
 <a href="LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 <img src="https://img.shields.io/github/repo-size/Simatwa/movies-dataset"></img>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/Simatwa/movies-dataset&count_bg=blue"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/Simatwa/movies-dataset&count_bg=skyblue"/></a>
 </p>
 A collection of movies dataset for your ML project or any other task.
 
