@@ -120,12 +120,15 @@ class MovieDataHunter:
 
         def default():
             cache = {
-                "movies_count": 0,
+                "total_movies": 0,
                 "category": [],
                 "genres": [],
                 "saved_to": [],
+                "genre_count": {},
             }
-            for category, genre, movies_count, _, saved_to in hunt_movies():
+            for category, genre, movies_count, newly_saved, saved_to in hunt_movies():
+                cache["total_movies"] += newly_saved
+                cache["genre_count"][genre] = movies_count
                 cache["movies_count"] += movies_count
                 cache["genres"].append(genre)
                 cache["saved_to"].append(saved_to)
