@@ -1,4 +1,4 @@
-<h1 align="center"> movies-dataset </h1>
+<h1 align="center"> Movies-Dataset </h1>
 
 <p align="center">
 <a href="LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
