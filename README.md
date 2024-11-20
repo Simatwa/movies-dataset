@@ -103,6 +103,7 @@ There's no gurantee that the data generated are correct.
 |-----|-------|------|
 | 1   | Combined `csv` | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/combined.csv``` |
 | 2   | Sqlite3 Database | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/combined.db``` |
+| 2   | Sqlite3 Database (Relational) | ```https://raw.githubusercontent.com/Simatwa/movies-dataset/main/data/combined-relational.db``` |
 
 # Further details
 
