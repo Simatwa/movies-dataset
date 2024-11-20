@@ -54,7 +54,9 @@ class Category(SQLModel, table=True):
     __tablename__ = "category"
     id: int | None = Field(None, primary_key=True)
     name: str | None = Field(None, unique=True)
-    movies: list["Movie"] = Relationship(back_populates="category")
+    movies: list["Movie"] = Relationship(
+        back_populates="category", cascade_delete=True, passive_deletes=True
+    )
 
     def __repr__(self):
         return self.name
